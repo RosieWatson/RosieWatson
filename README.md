@@ -5,7 +5,3 @@ A Senior Full Stack Product Engineer at [@zeroheight](https://github.com/zerohei
 I am also currently leading the engineering efforts for our internal design system, [Flapjack](https://flapjack.zeroheight.tech/6db7899f3/p/94960e-flapjack).
 
 See [rosiewatson.dev](https://www.rosiewatson.dev) for more details and blog posts
-
-### 🧐 Want to hire me?
-
-Reach out to me on [LinkedIn](https://uk.linkedin.com/in/rosiekw)
